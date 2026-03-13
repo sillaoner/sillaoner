@@ -1,4 +1,4 @@
-<img src=".jpg" width="100%" />
+<img src="assets/.jpg" width="100%" />
 
 # 👋 Hi, I'm Sıla
 
